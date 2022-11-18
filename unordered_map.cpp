@@ -11,7 +11,7 @@ int main()
     for(auto x:map)
     cout<<x.first<<" "<<x.second<<endl;
     cout<<map.size()<<endl;
-    // function to check given key having  a value 
+    // function to check given key having  a value      
     if(map.find("gfg")!=map.end())
     cout<<"element is found "<<endl;
     else

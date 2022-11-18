@@ -18,5 +18,5 @@ int main()
     h[x]++;
     for(auto e:h)
     cout<<e.first<<" "<<e.second<<endl;
-    return 0;
+    return 0;               
 }
